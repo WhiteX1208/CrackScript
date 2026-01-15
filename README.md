@@ -1,0 +1,2 @@
+# CrackScript
+IDK
